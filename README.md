@@ -13,7 +13,6 @@ A comprehensive cricket analytics project that combines big data processing, int
 
 ## 🛠️ Tech Stack
 - **Data Processing**: PySpark (Google Colab/Databricks)
-- **Database**: SQL Server / Azure SQL
 - **Visualization**: Microsoft Power BI
 - **ML Framework**: Scikit-learn / PySpark MLlib
 - **Languages**: Python, SQL, DAX
